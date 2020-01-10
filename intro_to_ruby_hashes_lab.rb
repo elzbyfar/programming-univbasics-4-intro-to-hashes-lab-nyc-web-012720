@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  h = {
+  a_hash = {
     :key_1 => "value 1", 
     :key_2 => "value 2"
   }
